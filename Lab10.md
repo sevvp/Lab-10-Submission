@@ -29,4 +29,4 @@ Challenge 3 - Phishing Websites
 Challenge 4 - IoT Webcams (Shodan)
 --
 
-![Webcam](https://github.com/sevvp/Lab-10-Submission/blob/master/Screen%20Shot%202018-11-30%20at%203.20.17%20PM.png)
+![Webcam](https://github.com/sevvp/Lab-10-Submission/blob/master/Screen%20Shot%202018-11-30%20at%203.23.57%20PM.png)
